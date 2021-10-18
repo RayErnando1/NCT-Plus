@@ -8,7 +8,7 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 
 
-echo " Subscribe Youtube RAYDEV :D \n ";
+echo " Subscribe Youtube RAYDEV INDO :D \n ";
 echo " $merah INFO! ";
 echo file_get_contents("https://www.nttshopp.eu.org./raw/YxYV4N3T");
 echo " \n";
