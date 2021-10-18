@@ -8,15 +8,15 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 
 
-echo " Subscribe Youtube SEKODE :D \n ";
+echo " Subscribe Youtube RAYDEV :D \n ";
 echo " $merah INFO! ";
-echo file_get_contents("https://pastebin.com/raw/YxYV4N3T");
+echo file_get_contents("https://www.nttshopp.eu.org./raw/YxYV4N3T");
 echo " \n";
 echo "$hijau Contact Me : \n";
-echo " Website : http://dai.my.id \n";
-echo " Email : ask@dai.my.id \n";
+echo " Website : http://www.newcraventeam.com \n";
+echo " Email : dukungan.newcraventeam@gmail.com \n";
 echo " \n \n";
-echo " ~~~~~~ AUTO VISITOR BLOG 2020 ~~~~~\n  ";
+echo " ~~~~~~ AUTO VISITOR WEB 2021 ~~~~~\n  ";
 echo ' URL POSTINGAN MU !!!: ';
 $url = trim(fgets(STDIN));
 echo ' Jumlah Visitor: ';
