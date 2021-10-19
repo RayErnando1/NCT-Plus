@@ -8,12 +8,13 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 
 
-echo " Subscribe Youtube RAYDEV INDO :D \n ";
+echo " RAYDEV PRODUCTION INDO \n ";
 echo " $merah INFO! ";
 echo file_get_contents("https://www.nttshopp.eu.org./raw/YxYV4N3T");
 echo " \n";
 echo "$hijau Contact Me : \n";
-echo " Website : http://www.newcraventeam.com \n";
+echo " Website :www.newcraventeam.com \n";
+echo " Website :www.nttshopp.eu.org \n";
 echo " Email : dukungan.newcraventeam@gmail.com \n";
 echo " \n \n";
 echo " ~~~~~~ AUTO VISITOR WEB 2021 ~~~~~\n  ";
