@@ -232,6 +232,7 @@ class autovisitor extends Random_UA {
 	    $list[] = "http://google.com.tw";
 	    $list[] = "https://search.yahoo.com";
         $list[] = "http://www.beinyu.com";
+         $list[] = "https://id.m.wikipedia.org";
 
 
 		$acak = array_rand($list,1);
