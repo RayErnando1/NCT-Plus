@@ -234,6 +234,14 @@ class autovisitor extends Random_UA {
         $list[] = "http://www.beinyu.com";
          $list[] = "https://id.m.wikipedia.org";
          $list[] = "https://www.wikipedia.org";
+         $list[] = "https://cenow.uthsc.edu";
+         $list[] = "https://pslcdatashop.web.cmu.edu";
+         $list[] = "https://cpd.education.bcm.edu";
+         $list[] = "https://cme-learning.brown.edu";
+          $list[] = "https://dor.georgia.gov";
+          $list[] = "https://www.myhealth.va.gov";
+           $list[] = "https://www.sec.gov";
+           
          
 
 
