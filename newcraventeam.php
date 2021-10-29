@@ -240,7 +240,10 @@ class autovisitor extends Random_UA {
          $list[] = "https://cme-learning.brown.edu";
           $list[] = "https://dor.georgia.gov";
           $list[] = "https://www.myhealth.va.gov";
-           $list[] = "https://www.sec.gov";
+           $list[] = "http://www.pinterest.com";
+            $list[] = "http://forum.statcounter.com/vb";
+             $list[] = "https://www.vimeo.com";
+             $list[] = "https://www.sec.gov";
            
          
 
