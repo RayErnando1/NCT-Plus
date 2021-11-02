@@ -252,6 +252,18 @@ class autovisitor extends Random_UA {
                 $list[] = "http://pen.io";
                  $list[] = "https://www.eklablog.com";
                   $list[] = "https://www.bloglovin.com";
+                  $list[] = "https://vimeo.com";
+                  $list[] = "https://myspace.com";
+                  $list[] = "http://community.skype.com";
+                  $list[] = "http://forum.statcounter.com";
+                  $list[] = "http://forum.arduino.cc";
+                  $list[] = "http://online.wsj.com";
+                  $list[] = "http://www.addthis.com";
+                  $list[] = "http://www.flickr.com";
+                  $list[] = "http://www.sba.gov";
+                  $list[] = "https://trello.com";
+                  $list[] = "https://openstreetmap.org";
+                  $list[] = "https://typepad.com";
            
          
 
