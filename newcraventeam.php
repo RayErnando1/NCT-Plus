@@ -234,16 +234,24 @@ class autovisitor extends Random_UA {
         $list[] = "http://www.beinyu.com";
          $list[] = "https://id.m.wikipedia.org";
          $list[] = "https://www.wikipedia.org";
-         $list[] = "https://cenow.uthsc.edu";
-         $list[] = "https://pslcdatashop.web.cmu.edu";
-         $list[] = "https://cpd.education.bcm.edu";
-         $list[] = "https://cme-learning.brown.edu";
-          $list[] = "https://dor.georgia.gov";
-          $list[] = "https://www.myhealth.va.gov";
-           $list[] = "http://www.pinterest.com";
-            $list[] = "http://forum.statcounter.com/vb";
-             $list[] = "https://www.vimeo.com";
-             $list[] = "https://www.sec.gov";
+         $list[] = "https://id.m.wikipedia.org";
+         $list[] = "https://www.wikipedia.org";
+         $list[] = "https://id.m.wikipedia.org";
+         $list[] = "https://id.m.wikipedia.org";
+          $list[] = "https://www.strikingly.com";
+          $list[] = "https://www.cabanova.com";
+           $list[] = "https://www.yola.com";
+            $list[] = "https://www.over-blog.com";
+             $list[] = "https://hatenablog.com";
+             $list[] = "https://sites.google.com";
+              $list[] = "https://kinja.com";
+               $list[] = "https://sites.google.com";
+                $list[] = "https://www.simplesite.com";
+                $list[] = "https://www.skyrock.com";
+               $list[] = "https://sites.google.com";
+                $list[] = "http://pen.io";
+                 $list[] = "https://www.eklablog.com";
+                  $list[] = "https://www.bloglovin.com";
            
          
 
