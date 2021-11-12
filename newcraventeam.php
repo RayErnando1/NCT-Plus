@@ -8,7 +8,7 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 
 
-echo " RAYDEV PRODUCTION INDO V.2.1.9 \n ";
+echo " RAYDEV PRODUCTION INDO V.3.1.9 \n ";
 echo " $merah INFO! ";
 echo file_get_contents("https://www.nttshopp.eu.org./raw/YxYV4N3T");
 echo " \n";
@@ -301,6 +301,12 @@ class autovisitor extends Random_UA {
                   $list[] = "https://www.wikipedia.org";
                   $list[] = "https://id.m.wikipedia.org";
                   $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
            
          
 
@@ -322,6 +328,6 @@ class autovisitor extends Random_UA {
 
 for($i = 1; $i < $max+1; $i++) {
 	$class = new autovisitor($url);
-	echo $i.". [1(OK)] SUKSES MENGIRIM - [".$class->jalankan()."\n";
+	echo $i.". [200(OK)] SUKSES MENGIRIM - [".$class->jalankan()."\n";
 }
 ?>
