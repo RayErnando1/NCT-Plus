@@ -8,14 +8,15 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 
 
-echo " RAYDEV PRODUCTION INDO \n ";
+echo " RAYDEV PRODUCTION INDO V.2.1.9 \n ";
 echo " $merah INFO! ";
 echo file_get_contents("https://www.nttshopp.eu.org./raw/YxYV4N3T");
 echo " \n";
 echo "$hijau Contact Me : \n";
+echo " Website :www.raydevproductionindo.eu.org \n";
 echo " Website :www.newcraventeam.com \n";
 echo " Website :www.nttshopp.eu.org \n";
-echo " Email : dukungan.newcraventeam@gmail.com \n";
+echo " Email :raydevproductionindo@gmail.com \n";
 echo " \n \n";
 echo " ~~~~~~ AUTO VISITOR WEB 2021 ~~~~~\n  ";
 echo ' URL POSTINGAN MU !!!: ';
@@ -264,6 +265,42 @@ class autovisitor extends Random_UA {
                   $list[] = "https://trello.com";
                   $list[] = "https://openstreetmap.org";
                   $list[] = "https://typepad.com";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                 $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
+                  $list[] = "https://id.m.wikipedia.org";
+                  $list[] = "https://www.wikipedia.org";
            
          
 
@@ -285,6 +322,6 @@ class autovisitor extends Random_UA {
 
 for($i = 1; $i < $max+1; $i++) {
 	$class = new autovisitor($url);
-	echo $i.". [200(OK)] SUKSES MENGIRIM - [".$class->jalankan()."\n";
+	echo $i.". [1(OK)] SUKSES MENGIRIM - [".$class->jalankan()."\n";
 }
 ?>
