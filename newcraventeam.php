@@ -270,44 +270,7 @@ class autovisitor extends Random_UA {
                   $list[] = "https://www.wikipedia.org";
                   $list[] = "https://www.wikipedia.org";
                   $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                 $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-                  $list[] = "https://id.m.wikipedia.org";
-                  $list[] = "https://www.wikipedia.org";
-           
+                  
          
 
 
