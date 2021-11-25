@@ -10,7 +10,7 @@ $merah = "\e[91m";
 
 echo " RAYDEV PRODUCTION INDO V.3.1.9 \n ";
 echo " $merah INFO! ";
-echo file_get_contents("https://www.nttshopp.eu.org./raw/YxYV4N3T");
+echo file_get_contents("https://pastebin.com/raw/eM7bhDSz");
 echo " \n";
 echo "$hijau Contact Me : \n";
 echo " Website :www.raydevproductionindo.eu.org \n";
