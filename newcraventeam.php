@@ -204,7 +204,12 @@ class autovisitor extends Random_UA {
 	private function acakReferer() {
 		$list = array();
 		/* Asal traffic yang di submit */ 
-	    $list[] = "https://search.yahoo.com";
+                 $list[] = "http://facebook.com";
+		$list[] = "http://google.com.sg";
+		$list[] = "http://twitter.com";
+ 		$list[] = "http://facebook.com";
+               $list[] = "http://google.com.sg";
+  $list[] = "https://search.yahoo.com";
         $list[] = "http://www.beinyu.com";
          $list[] = "https://id.m.wikipedia.org";
          $list[] = "https://www.wikipedia.org";
@@ -243,10 +248,6 @@ class autovisitor extends Random_UA {
                   $list[] = "https://www.wikipedia.org";
                   $list[] = "https://www.wikipedia.org";
                   $list[] = "https://id.m.wikipedia.org";
-                  
-         
-
-
 		$acak = array_rand($list,1);
 		return $list[$acak];
 	}
