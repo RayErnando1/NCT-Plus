@@ -8,9 +8,9 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 
 
-echo " RAYDEV PRODUCTION INDO V.3.1.9 \n ";
+echo " RAYDEV PRODUCTION INDO V.3.4.9 \n ";
 echo " $merah INFO! ";
-echo file_get_contents("https://pastebin.com/raw/eM7bhDSz");
+echo file_get_contents("https://pastebin.com/raw/x2PPELS6");
 echo " \n";
 echo "$hijau Contact Me : \n";
 echo " Website :www.raydevproductionindo.eu.org \n";
