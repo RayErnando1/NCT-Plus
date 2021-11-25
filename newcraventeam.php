@@ -10,7 +10,7 @@ $merah = "\e[91m";
 
 echo " RAYDEV PRODUCTION INDO V.3.1.9 \n ";
 echo " $merah INFO! ";
-echo file_get_contents("https://www.nttshopp.eu.org./raw/YxYV4N3T");
+echo ;
 echo " \n";
 echo "$hijau Contact Me : \n";
 echo " Website :www.raydevproductionindo.eu.org \n";
@@ -204,11 +204,6 @@ class autovisitor extends Random_UA {
 	private function acakReferer() {
 		$list = array();
 		/* Asal traffic yang di submit */ 
-		$list[] = "http://facebook.com";
-		$list[] = "http://google.com.sg";
-		$list[] = "http://twitter.com";
- 		$list[] = "http://facebook.com";
-        $list[] = "http://google.com.sg";
 	    $list[] = "https://search.yahoo.com";
         $list[] = "http://www.beinyu.com";
          $list[] = "https://id.m.wikipedia.org";
